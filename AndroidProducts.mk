@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_fajita.mk
+    $(LOCAL_DIR)/aosp_fajita.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_fajita-user \
-    havoc_fajita-userdebug \
-    havoc_fajita-eng
+    aosp_fajita-user \
+    aosp_fajita-userdebug \
+    aosp_fajita-eng
